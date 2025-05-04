@@ -39,8 +39,8 @@ Java 기반 백엔드와 Next.js 프론트엔드를 활용하여 **기획부터 
 - Spring Security, JWT, Swagger, Gradle
 
 ### Frontend
-- Next.js 15, React, TypeScript
-- Tailwind CSS, Zustand, SWR, pnpm
+- Next.js, React, TypeScript
+- Tailwind CSS, ContextAPI, pnpm
 
 ### DevOps & Infra
 - AWS EC2, S3, Route53, GitHub Actions
